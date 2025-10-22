@@ -1,0 +1,11 @@
+(librepcb_library 291ac48e-a4d4-4092-a135-2ca9de0d3400
+ (name "My Library")
+ (description "")
+ (keywords "")
+ (author "Bastien Piguet")
+ (version "0.1")
+ (created 2025-10-22T16:07:04Z)
+ (deprecated false)
+ (url "https://github.com/golden0kamia/LibrePCB_Library")
+ (manufacturer "")
+)
