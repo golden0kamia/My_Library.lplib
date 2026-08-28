@@ -2,7 +2,7 @@
  (name "My Library")
  (description "")
  (keywords "")
- (author "Bastien Piguet")
+ (author "ZéroK")
  (version "0.1")
  (created 2025-10-22T16:07:04Z)
  (deprecated false)
