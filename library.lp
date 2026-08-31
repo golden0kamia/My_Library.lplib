@@ -3,7 +3,7 @@
  (description "")
  (keywords "")
  (author "ZéroK")
- (version "0.1")
+ (version "1")
  (created 2025-10-22T16:07:04Z)
  (deprecated false)
  (url "https://github.com/golden0kamia/LibrePCB_Library")

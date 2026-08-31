@@ -7,7 +7,6 @@
  (created 2026-08-28T09:41:35Z)
  (deprecated false)
  (generated_by "KiCadImport::2026-08-28_09-40-53::PCM1754DBQR::0")
- (category 7bbabe3b-da71-423e-8e50-fcdbce820fac)
  (category f87a2a14-4dd2-49f0-b93d-0c78ac50cf53)
  (resource "Datasheet" (mediatype "application/pdf")
   (url "https://www.ti.com/lit/gpn/pcm1754")

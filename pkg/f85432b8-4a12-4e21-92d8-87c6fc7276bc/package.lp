@@ -8,7 +8,6 @@
  (deprecated false)
  (generated_by "KiCadImport::footprints::ESP32-S3-WROOM-1_EXP")
  (category 194951ec-03dd-412a-9828-70c40bbdd22d)
- (category 52a596cb-7d7e-446a-944c-f631be387ec9)
  (assembly_type smt)
  (grid_interval 1.0)
  (min_copper_clearance 0.2)

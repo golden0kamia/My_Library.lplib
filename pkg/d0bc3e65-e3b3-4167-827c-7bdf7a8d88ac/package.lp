@@ -8,7 +8,6 @@
  (deprecated false)
  (generated_by "KiCadImport::footprints::LQFP48_1_STM")
  (category 3363b8b1-6fa8-4041-962e-5f839cfd86b7)
- (category 52a596cb-7d7e-446a-944c-f631be387ec9)
  (assembly_type smt)
  (grid_interval 1.0)
  (min_copper_clearance 0.2)

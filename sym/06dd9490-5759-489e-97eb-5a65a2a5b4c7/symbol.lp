@@ -8,7 +8,6 @@
  (deprecated false)
  (generated_by "KiCadImport::2026-08-28_06-53-04::STM32C071CBT6::0")
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
- (category 7bbabe3b-da71-423e-8e50-fcdbce820fac)
  (resource "Datasheet" (mediatype "application/pdf")
   (url "https://www.st.com/resource/en/datasheet/stm32c071c8.pdf")
  )
