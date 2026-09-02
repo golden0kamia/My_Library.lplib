@@ -162,4 +162,8 @@
  )
  (part "ESP32-S3-WROOM-1-N16" (manufacturer "Espressif")
  )
+ (part "ESP32-S3-WROOM-1-N16R2" (manufacturer "Espressif")
+ )
+ (part "ESP32-S3-WROOM-1-N16R8" (manufacturer "Espressif")
+ )
 )
