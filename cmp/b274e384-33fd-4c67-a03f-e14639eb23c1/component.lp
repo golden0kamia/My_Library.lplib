@@ -1,8 +1,8 @@
 (librepcb_component b274e384-33fd-4c67-a03f-e14639eb23c1
- (name "L293DNE")
- (description "")
- (keywords "eagle,import")
- (author "EAGLE Import")
+ (name "L293")
+ (description "Bipolar Motor Driver Bipolar Parallel")
+ (keywords "")
+ (author "ZéroK")
  (version "0.1")
  (created 2025-10-22T16:18:25Z)
  (deprecated false)

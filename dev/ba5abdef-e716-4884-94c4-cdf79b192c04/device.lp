@@ -1,6 +1,6 @@
 (librepcb_device ba5abdef-e716-4884-94c4-cdf79b192c04
  (name "SJ-3524-SMT-TR-GR")
- (description "Imported from KiCad (2026-09-01_17-49-57:SJ-3524-SMT-TR-GR).")
+ (description "3.50mm (0.141\", 1/8\", Mini Plug) - Headphone Phone Jack Stereo (3 Conductor, TRS) Connector Solder")
  (keywords "kicad,import,SJ-3524-SMT-TR-GR")
  (author "KiCad Import")
  (version "0.1")

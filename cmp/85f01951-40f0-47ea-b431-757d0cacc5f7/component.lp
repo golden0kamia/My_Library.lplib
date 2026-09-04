@@ -1,6 +1,6 @@
 (librepcb_component 85f01951-40f0-47ea-b431-757d0cacc5f7
  (name "MCP2221A")
- (description "Imported from KiCad (2026-09-02_16-57-32:MCP2221A-I_SL).")
+ (description "USB Bridge, USB to I2C/UART USB 2.0 I2C, UART Interface 14-SOIC")
  (keywords "kicad,import,MCP2221A-I/SL")
  (author "KiCad Import")
  (version "0.1")
@@ -44,7 +44,7 @@
  (signal 05d2ec62-c517-424f-b3a9-0b577660a7ad (name "SCL") (role inout)
   (required false) (negated false) (clock false) (forced_net "")
  )
- (signal 72145b2a-5412-4e06-9a2e-f47e125891cc (name "VUSB") (role power)
+ (signal 72145b2a-5412-4e06-9a2e-f47e125891cc (name "VBUS") (role power)
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal 078aee7b-4de2-4431-b10f-7e36503e92fd (name "D-") (role inout)

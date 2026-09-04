@@ -1,6 +1,6 @@
 (librepcb_symbol 89109149-ce41-4428-b7d7-6d6aa05576bb
- (name "LM2675MX-3.3_NOPB")
- (description "Imported from KiCad (2026-08-29_14-31-10:LM2675MX-3.3_NOPB).")
+ (name "LM2675")
+ (description "")
  (keywords "kicad,import,LM2675MX-3.3/NOPB")
  (author "KiCad Import")
  (version "0.1")

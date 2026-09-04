@@ -1,7 +1,7 @@
 (librepcb_device dd54f81a-2a25-4976-a67e-c5a13333a3e4
  (name "PCM1754DBQR")
- (description "Imported from KiCad (2026-08-28_09-40-53:PCM1754DBQR).")
- (keywords "kicad,import,PCM1754DBQR")
+ (description "DAC, Audio 24 b 200k I2S 16-SSOP")
+ (keywords "pcm1754dbqr,dac,i2s")
  (author "KiCad Import")
  (version "0.1")
  (created 2026-08-28T09:41:35Z)

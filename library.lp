@@ -7,5 +7,6 @@
  (created 2025-10-22T16:07:04Z)
  (deprecated false)
  (url "https://github.com/golden0kamia/LibrePCB_Library")
+ (dependency 6ccc516c-21b7-4cd5-9cf2-7a04cfa361c6)
  (manufacturer "")
 )

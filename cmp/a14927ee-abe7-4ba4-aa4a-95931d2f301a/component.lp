@@ -1,6 +1,6 @@
 (librepcb_component a14927ee-abe7-4ba4-aa4a-95931d2f301a
  (name "TPS54202HDDCR")
- (description "Imported from KiCad (2026-08-31_19-36-07:TPS54202HDDCR).")
+ (description "Buck Switching Regulator IC Positive Adjustable 0.596V 1 Output 2A SOT-23-6 Thin, TSOT-23-6")
  (keywords "kicad,import,TPS54202HDDCR")
  (author "KiCad Import")
  (version "0.1")

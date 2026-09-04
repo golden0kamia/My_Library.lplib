@@ -1,6 +1,6 @@
 (librepcb_device 51a414b7-7e50-42f3-8531-05156178c8a2
  (name "ESP32-S3-WROOM-1-N16")
- (description "Imported from KiCad (2026-08-31_18-50-11:ESP32-S3-WROOM-1-N16).")
+ (description "Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount")
  (keywords "kicad,import,ESP32-S3-WROOM-1-N16")
  (author "KiCad Import")
  (version "0.1")

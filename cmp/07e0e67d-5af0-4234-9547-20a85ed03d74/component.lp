@@ -1,6 +1,6 @@
 (librepcb_component 07e0e67d-5af0-4234-9547-20a85ed03d74
- (name "LM2675MX-3.3_NOPB")
- (description "Imported from KiCad (2026-08-29_14-31-10:LM2675MX-3.3_NOPB).")
+ (name "LM2675")
+ (description "Buck Switching Regulator IC Positive Fixed 3.3V 1 Output 1A 8-SOIC (0.154\", 3.90mm Width)")
  (keywords "kicad,import,LM2675MX-3.3/NOPB")
  (author "KiCad Import")
  (version "0.1")

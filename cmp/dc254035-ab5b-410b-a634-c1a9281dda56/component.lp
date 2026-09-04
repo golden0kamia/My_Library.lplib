@@ -1,6 +1,6 @@
 (librepcb_component dc254035-ab5b-410b-a634-c1a9281dda56
  (name "PCM5102APWR")
- (description "Imported from KiCad (2026-09-01_08-46-19:PCM5102APWR).")
+ (description "DAC, Audio 16 b, 24 b, 32 b 384k PCM 20-TSSOP")
  (keywords "kicad,import,pcm5102apwr")
  (author "KiCad Import")
  (version "0.1")
