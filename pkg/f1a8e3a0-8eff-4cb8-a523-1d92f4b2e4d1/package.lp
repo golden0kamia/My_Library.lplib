@@ -1,6 +1,6 @@
 (librepcb_package f1a8e3a0-8eff-4cb8-a523-1d92f4b2e4d1
- (name "SOT6P95_290X280X110")
- (description "6 pin 0.95 mm pitch SOT")
+ (name "SOP6P95_290X280X110")
+ (description "6 pin 0.95 mm pitch SOP")
  (keywords "kicad,import")
  (author "KiCad Import")
  (version "0.1")
