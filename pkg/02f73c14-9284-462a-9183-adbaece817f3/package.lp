@@ -1,5 +1,5 @@
 (librepcb_package 02f73c14-9284-462a-9183-adbaece817f3
- (name "ESP32-S3-WROOM-1_EXP")
+ (name "Espressif_ESP32-S3-WROOM-1")
  (description "Imported from KiCad (footprints:ESP32-S3-WROOM-1_EXP).")
  (keywords "kicad,import")
  (author "KiCad Import")

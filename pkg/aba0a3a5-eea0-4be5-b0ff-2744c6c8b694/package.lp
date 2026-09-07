@@ -1,5 +1,5 @@
 (librepcb_package aba0a3a5-eea0-4be5-b0ff-2744c6c8b694
- (name "SAMESKY_UJ20-C-H-G-SMT-1-P16-TR")
+ (name "SAMESKY_UJ20-C-H-G")
  (description "USB Connector")
  (keywords "eagle,import")
  (author "EAGLE Import")

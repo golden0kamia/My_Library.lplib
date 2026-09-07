@@ -1,8 +1,8 @@
 (librepcb_package 430d2148-a5ff-4520-8a88-aaa4660add3e
- (name "SJ-3524-SMT-TR-GR_CUD")
- (description "Imported from KiCad (footprints:SJ-3524-SMT-TR-GR_CUD).")
- (keywords "kicad,import")
- (author "KiCad Import")
+ (name "SAMESKY_SJ-3524-SMT")
+ (description "3.5 mm Jack")
+ (keywords "")
+ (author "ZéroK")
  (version "0.1")
  (created 2026-09-01T17:51:26Z)
  (deprecated false)
