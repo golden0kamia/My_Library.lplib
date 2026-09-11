@@ -1,0 +1,10 @@
+(librepcb_component_category 7e50de21-c573-4204-9c22-b7902b2265a4
+ (name "Microphone")
+ (description "")
+ (keywords "")
+ (author "ZéroK")
+ (version "0.1")
+ (created 2026-09-11T09:15:09Z)
+ (deprecated false)
+ (parent 5347fa0a-108b-4fa0-b97d-947d35c218be)
+)
