@@ -1,8 +1,8 @@
 (librepcb_symbol 06dd9490-5759-489e-97eb-5a65a2a5b4c7
  (name "STM32C071CBT6")
- (description "Imported from KiCad (2026-08-28_06-53-04:STM32C071CBT6).")
- (keywords "kicad,import,STM32C071CBT6")
- (author "KiCad Import")
+ (description "ARM® Cortex®-M0+ STM32C0 Microcontroller IC 32-Bit 48MHz FLASH 48-LQFP (7x7)")
+ (keywords "stm32c071cbt6")
+ (author "ZéroK")
  (version "0.1")
  (created 2026-08-28T06:56:23Z)
  (deprecated false)

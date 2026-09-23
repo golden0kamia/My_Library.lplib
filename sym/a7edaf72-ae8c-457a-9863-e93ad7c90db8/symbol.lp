@@ -1,5 +1,5 @@
 (librepcb_symbol a7edaf72-ae8c-457a-9863-e93ad7c90db8
- (name "ZéroK Schematic Frame")
+ (name "A4 Landcape ZéroK Schematic Frame")
  (description "")
  (keywords "")
  (author "ZéroK")

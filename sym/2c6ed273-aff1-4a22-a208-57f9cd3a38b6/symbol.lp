@@ -5,7 +5,7 @@
  (author "KiCad Import")
  (version "0.1")
  (created 2026-08-31T19:39:52Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "KiCadImport::2026-08-31_19-36-07::TPS54202HDDCR::0")
  (category 30643e64-b131-4eb5-b956-ceb3cb02413a)
  (resource "Datasheet" (mediatype "application/pdf")
